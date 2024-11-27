@@ -1,0 +1,1 @@
+Smart contract for Web3 Gaming Guild community using this Tiered Community Membership NFT system.
